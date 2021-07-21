@@ -1,0 +1,26 @@
+{
+  "server_config": {
+    "host": "localhost",
+    "port": 4023,
+    "protocol": "http"
+  },
+  "api_version_config": {
+    "appversion": "v1"
+  },
+  "web_token_info": {
+    "secret": "heimxydall",
+    "expiresIn": 86400
+  },
+  "crypto_info": {
+    "salt_round": 8
+  },
+  "smtp_provider":{
+     "host": "smtp.gmail.com",
+     "service": "gmail",
+     "port": 587,
+     "secure": false,
+     "requireTLS": true,
+     "user": "xxxx@gmail.com",
+     "password": "flasexxxfs"
+  }
+}
